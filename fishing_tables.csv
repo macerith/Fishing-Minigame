@@ -1,0 +1,400 @@
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+bluefish,str,2,5
+kahawai,dex,2,1000
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+narrow barred mackerel,str,3,5
+triple tail,dex,3,15
+triple tail,dex,3,15
+triple tail,dex,3,15
+triple tail,dex,3,15
+triple tail,dex,3,15
+blackfin tuna,str,3,15
+blackfin tuna,str,3,15
+blackfin tuna,str,3,15
+blackfin tuna,str,3,15
+blackfin tuna,str,3,15
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+bonefish,dex,4,5
+talang queenfish,str,3,1000
+barramundi,dex,3,1000
+roosterfish,dex,1,15
+roosterfish,dex,1,15
+roosterfish,dex,1,15
+roosterfish,dex,1,15
+roosterfish,dex,1,15
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+mahi doe,dex,1,5
+yelloweye rockfish,str,1,15
+yelloweye rockfish,str,1,15
+yelloweye rockfish,str,1,15
+yelloweye rockfish,str,1,15
+yelloweye rockfish,str,1,15
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+cod,con,1,5
+grouper,con,2,15
+grouper,con,2,15
+grouper,con,2,15
+grouper,con,2,15
+grouper,con,2,15
+yellowtail snapper,str,2,15
+yellowtail snapper,str,2,15
+yellowtail snapper,str,2,15
+yellowtail snapper,str,2,15
+yellowtail snapper,str,2,15
+jack,con,3,15
+jack,con,3,15
+jack,con,3,15
+jack,con,3,15
+jack,con,3,15
+wrasse,dex,2,15
+wrasse,dex,2,15
+wrasse,dex,2,15
+wrasse,dex,2,15
+wrasse,dex,2,15
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+albacore,con,1,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+bluefin trevally,con,4,25
+jacke crevalle,con,4,50
+jacke crevalle,con,4,50
+jacke crevalle,con,4,50
+jacke crevalle,con,4,50
+jacke crevalle,con,4,50
+great barracuda,dex,3,50
+great barracuda,dex,3,50
+great barracuda,dex,3,50
+great barracuda,dex,3,50
+great barracuda,dex,3,50
+striped bass,dex,3,50
+striped bass,dex,3,50
+striped bass,dex,3,50
+striped bass,dex,3,50
+striped bass,dex,3,50
+king mackerel,str,4,50
+king mackerel,str,4,50
+king mackerel,str,4,50
+king mackerel,str,4,50
+king mackerel,str,4,50
+opah,con,3,500
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+yellowtail tuna,con,4,50
+wahoo,str,6,100
+wahoo,str,6,100
+wahoo,str,6,100
+wahoo,str,6,100
+wahoo,str,6,100
+wahoo,str,6,100
+spearfish,dex,4,500
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+snook,str,2,25
+king threadfin,dex,3,500
+permit,dex,4,50
+permit,dex,4,50
+permit,dex,4,50
+permit,dex,4,50
+permit,dex,4,50
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+mahi bull,dex,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+halibut,str,4,25
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+red steenbras,con,6,100
+red steenbras,con,6,100
+red steenbras,con,6,100
+red steenbras,con,6,100
+red steenbras,con,6,100
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+white seabass,dex,3,75
+cuberra snapper,con,6,100
+cuberra snapper,con,6,100
+cuberra snapper,con,6,100
+cuberra snapper,con,6,100
+cuberra snapper,con,6,100
+leerfish,con,4,100
+leerfish,con,4,100
+leerfish,con,4,100
+leerfish,con,4,100
+leerfish,con,4,100
+red drum,dex,6,100
+red drum,dex,6,100
+red drum,dex,6,100
+red drum,dex,6,100
+red drum,dex,6,100
+dogtooth tuna,con,6,100
+dogtooth tuna,con,6,100
+dogtooth tuna,con,6,100
+dogtooth tuna,con,6,100
+dogtooth tuna,con,6,100
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+cobia,dex,4,75
+blacktip shark,con,4,100
+blacktip shark,con,4,100
+blacktip shark,con,4,100
+blacktip shark,con,4,100
+blacktip shark,con,4,100
+giant trevally,con,6,100
+giant trevally,con,6,100
+giant trevally,con,6,100
+giant trevally,con,6,100
+giant trevally,con,6,100
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+chinook salmon,str,4,75
+sailfish,str,9,150
+sailfish,str,9,150
+sailfish,str,9,150
+sailfish,str,9,150
+sailfish,str,9,150
+tiger shark,con,6,100
+tiger shark,con,6,100
+tiger shark,con,6,100
+tiger shark,con,6,100
+tiger shark,con,6,100
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+next,0,0,0
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+bluefin tuna,str,9,250
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+marlin,con,9,500
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+swordfish,con,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+mako shark,dex,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+tarpon,str,9,250
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
+thresher shark,dex,9,500
